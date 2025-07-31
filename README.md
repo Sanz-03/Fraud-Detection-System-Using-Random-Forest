@@ -1,10 +1,13 @@
 # Fraud Detection System Using Random Forest
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-This project is a **machine learning pipeline** to detect fraudulent transactions based on user behavior and transaction patterns. It uses **Python**, **pandas**, and **scikit-learn**, with practical **feature engineering** and a reusable saved model.
+This project is a **machine learning pipeline** to detect fraudulent transactions based on user behavior and transaction patterns. It uses **Python**, **pandas**, and **scikit-learn**, with practical **feature engineering** and a reusable saved model.✨
 
----
 
-## Key Features =>
+## Key Features 👇🏼
 
 - **Real-world inspired features**
   - Flags for unusually high amounts
@@ -22,7 +25,7 @@ This project is a **machine learning pipeline** to detect fraudulent transaction
 
 ---
 
-## Files Included =>
+## Files Included 🤜🏼
 
 - `fraud_detection_notebook.ipynb` — Full data prep, feature engineering, training, and evaluation
 - `fraud_detection_model.joblib` — Final trained Random Forest model
@@ -32,4 +35,4 @@ This project is a **machine learning pipeline** to detect fraudulent transaction
 ---
 Built with ❤️ using Python and scikit-learn.
 
-Feel free to fork or contribute!
+Feel free to fork or contribute!👊🏼
